@@ -5,7 +5,7 @@ python sdk for bitbucket cloud rest api
 #### Install me:  
 
 ```bash
-pip install -i https://test.pypi.org/simple/ bitbucket-cloud-client-foolishnekozzz
+pip install -i https://test.pypi.org/simple/ bitbucket-cloud-client-nekozzz94
 ```
 
 #### Examples:  
@@ -19,7 +19,7 @@ export BITBUCKET_PASSWORD="neko"
 ```python
 #!/usr/bin/env python3
 
-from bitbucket_cloud_client_foolishnekozzz import BitbucketWorkspace, BitbucketGroup, Member
+from bitbucket_cloud_client_nekozzz94 import BitbucketWorkspace, BitbucketGroup, Member
 
 from os import environ
 

@@ -3,10 +3,10 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "bitbucket_cloud_client_foolishnekozzz"
-version = "1.0.2"
+name = "bitbucket_cloud_client_nekozzz94"
+version = "1.0"
 authors = [
-  { name="foolishnekozzz", email="foolishnekozzz@example.com" },
+  { name="nekozzz94", email="kidpooh1608@gmail.com" },
 ]
 description = "SDK for Bitbucket Cloud"
 readme = "README.md"
@@ -18,5 +18,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/foolishnekozzz/bitbucket-cloud-client"
-Issues = "https://github.com/foolishnekozzz/bitbucket-cloud-client/issues"
+Homepage = "https://github.com/nekozzz94/bitbucket-cloud-client"
+Issues = "https://github.com/nekozzz94/bitbucket-cloud-client/issues"
